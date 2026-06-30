@@ -49,6 +49,9 @@ See the .sql files in this repo for all three analysis modules.
 ---
 
 ## Vendor scorecard (Excel)
+![Vendor Scorecard Excel](excel_vendor_scorecard.png)
+
+![State Heatmap Excel](excel_state_heatmap.png)
 A 4-sheet workbook simulating a real consulting deliverable:
 - **Summary** — executive KPI overview
 - **Vendor Scorecard** — 1,542 vendors with RAG conditional formatting, tier-based color coding, and composite score data bars
