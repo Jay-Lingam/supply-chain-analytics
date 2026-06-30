@@ -92,4 +92,5 @@ supply-chain-analytics/
 
 ## Author
 **Dhananjay** | Mechanical Engineering (EV specialization) → Data Analytics  
-[LinkedIn](('https://www.linkedin.com/in/dhananjaylingam/'))
+[LinkedIn](https://www.linkedin.com/in/dhananjaylingam/)
+
